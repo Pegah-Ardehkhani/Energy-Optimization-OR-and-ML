@@ -8,7 +8,7 @@ The core objective of this project is to determine the optimal electricity gener
 
 ## Methodologies and Analyses
 
-#### 1. Linear Programming (LP) for Optimal Power Generation
+#### 🔹 1. Linear Programming (LP) for Optimal Power Generation
 
 What was done:
 
@@ -18,7 +18,7 @@ What was analyzed:
 
 The analysis of the LP solution revealed the optimal power generation plan, specifying the exact output for each generator. It highlighted which generators were utilized to their full capacity, which were partially used, and which were not used at all, providing a clear, profit-maximizing strategy under the given deterministic conditions. Key insights were drawn regarding the efficiency and profitability of each generator.
 
-#### 2. Sensitivity Analysis
+#### 🔹 2. Sensitivity Analysis
 
 What was done:
 
@@ -28,7 +28,7 @@ What was analyzed:
 
 Sensitivity analysis yielded critical insights into the robustness of the optimal solution. It identified binding and non-binding constraints, revealing which resources or demands were bottlenecks (e.g., gas availability) and which had slack (e.g., minimum demand). The analysis quantified the allowable increases and decreases in generator profits and constraint values, indicating the stability of the current optimal plan. Furthermore, shadow prices (dual values) were calculated to understand the marginal value of relaxing each constraint, providing economic insights into the scarcity and value of resources. Reduced costs were also analyzed to determine the profitability threshold for currently unused generators or those operating at their bounds.
 
-#### 3. Parametric Analysis
+#### 🔹 3. Parametric Analysis
 
 What was done:
 
@@ -38,7 +38,7 @@ What was analyzed:
 
 This analysis provided a visual and quantitative understanding of the trade-offs involved when a key economic factor changes. It showed how the optimal MWh output for each generator shifted in response to the varying profit of Generator 3, illustrating the breakpoints where the optimal strategy would change. The total profit curve demonstrated the non-linear impact of such changes, offering insights into the sensitivity of the overall system to individual generator profitability.
 
-#### 4. Stochastic Programming
+#### 🔹4. Stochastic Programming
 
 What was done:
 
@@ -48,7 +48,7 @@ What was analyzed:
 
 Stochastic programming revealed an optimal generation plan that performs well on average, rather than being tailored to a single deterministic outcome. The analysis demonstrated how the model balances potential profits and risks across different scenarios, leading to a decision that is robust against future uncertainties. It highlighted the expected total profit and the profit contribution from each scenario, providing a comprehensive view of the system's performance under probabilistic conditions. This approach underscored the value of proactive planning in volatile environments.
 
-#### 5. Machine Learning for Predictive Modeling and Pattern Discovery
+#### 🔹 5. Machine Learning for Predictive Modeling and Pattern Discovery
 
 What was done:
 
