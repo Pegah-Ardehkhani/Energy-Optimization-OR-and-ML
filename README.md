@@ -38,7 +38,7 @@ What was analyzed:
 
 This analysis provided a visual and quantitative understanding of the trade-offs involved when a key economic factor changes. It showed how the optimal MWh output for each generator shifted in response to the varying profit of Generator 3, illustrating the breakpoints where the optimal strategy would change. The total profit curve demonstrated the non-linear impact of such changes, offering insights into the sensitivity of the overall system to individual generator profitability.
 
-#### 🔹4. Stochastic Programming
+#### 🔹 4. Stochastic Programming
 
 What was done:
 
