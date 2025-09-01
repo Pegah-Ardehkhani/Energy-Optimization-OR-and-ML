@@ -1,4 +1,4 @@
-# Energy Optimization with OR and ML ️‍🔥⚡ ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Energy-Optimization-OR-and-ML.svg)
+# Energy Optimization with OR and ML ️‍🔥⚡ ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Energy-Optimization-OR-and-ML.svg) <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Energy-Optimization-OR-and-ML/blob/main/Energy%20Optimization%20with%20OR%20and%20ML.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This project explores the optimization of power generation from multiple sources, aiming to maximize profit while adhering to various operational constraints. It leverages both Operations Research (OR) techniques, specifically Linear Programming, and Machine Learning (ML) to address the complexities of energy management, including sensitivity analysis, parametric analysis, stochastic programming, and predictive modeling.
 
