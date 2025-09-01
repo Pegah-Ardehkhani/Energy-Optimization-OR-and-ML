@@ -1,4 +1,4 @@
-# Energy Optimization with OR and ML ️‍🔥⚡
+# Energy Optimization with OR and ML ️‍🔥⚡ ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Energy-Optimization-OR-and-ML.svg)
 
 This project explores the optimization of power generation from multiple sources, aiming to maximize profit while adhering to various operational constraints. It leverages both Operations Research (OR) techniques, specifically Linear Programming, and Machine Learning (ML) to address the complexities of energy management, including sensitivity analysis, parametric analysis, stochastic programming, and predictive modeling.
 
