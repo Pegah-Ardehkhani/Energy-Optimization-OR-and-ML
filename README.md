@@ -40,12 +40,6 @@ This analysis provided a visual and quantitative understanding of the trade-offs
 
 #### 🔹 4. Robust Optimization
 
-Got it! Here's a **concise, consistent version** written in the same style and length as your previous sections (LP, Sensitivity, Stochastic, etc.):
-
----
-
-#### 🔹 6. Robust Optimization
-
 What was done:
 
 The project extended the deterministic LP to a **robust optimization model** using the Bertsimas–Sim approach. This accounts for uncertainties in gas consumption for each generator by introducing a **budget of uncertainty (Γ)**, which limits how many generators can deviate simultaneously. The objective remained maximizing total profit while ensuring feasibility under worst-case gas usage scenarios.
