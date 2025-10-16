@@ -40,6 +40,19 @@ This analysis provided a visual and quantitative understanding of the trade-offs
 
 #### 🔹 4. Robust Optimization
 
+Got it! Here's a **concise, consistent version** written in the same style and length as your previous sections (LP, Sensitivity, Stochastic, etc.):
+
+---
+
+#### 🔹 6. Robust Optimization
+
+What was done:
+
+The project extended the deterministic LP to a **robust optimization model** using the Bertsimas–Sim approach. This accounts for uncertainties in gas consumption for each generator by introducing a **budget of uncertainty (Γ)**, which limits how many generators can deviate simultaneously. The objective remained maximizing total profit while ensuring feasibility under worst-case gas usage scenarios.
+
+What was analyzed:
+
+The analysis examined how generator outputs and total profit change as Γ increases. High gas-consuming generators reduce output to prevent exceeding the gas limit, illustrating the **trade-off between profit and robustness**. Shadow prices and gas usage decomposition were analyzed to quantify the economic impact of uncertainty and identify which generators are most sensitive. Visualizations highlighted the **price of robustness**, generator adjustments, and worst-case gas usage under different uncertainty budgets.
 
 #### 🔹 5. Stochastic Programming
 
