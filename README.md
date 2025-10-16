@@ -38,7 +38,10 @@ What was analyzed:
 
 This analysis provided a visual and quantitative understanding of the trade-offs involved when a key economic factor changes. It showed how the optimal MWh output for each generator shifted in response to the varying profit of Generator 3, illustrating the breakpoints where the optimal strategy would change. The total profit curve demonstrated the non-linear impact of such changes, offering insights into the sensitivity of the overall system to individual generator profitability.
 
-#### 🔹 4. Stochastic Programming
+#### 🔹 4. Robust Optimization
+
+
+#### 🔹 5. Stochastic Programming
 
 What was done:
 
@@ -48,7 +51,7 @@ What was analyzed:
 
 Stochastic programming revealed an optimal generation plan that performs well on average, rather than being tailored to a single deterministic outcome. The analysis demonstrated how the model balances potential profits and risks across different scenarios, leading to a decision that is robust against future uncertainties. It highlighted the expected total profit and the profit contribution from each scenario, providing a comprehensive view of the system's performance under probabilistic conditions. This approach underscored the value of proactive planning in volatile environments.
 
-#### 🔹 5. Machine Learning for Predictive Modeling and Pattern Discovery
+#### 🔹 6. Machine Learning for Predictive Modeling and Pattern Discovery
 
 What was done:
 
